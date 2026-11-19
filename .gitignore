@@ -1,0 +1,23 @@
+# Build output
+build/
+cmake-build-*/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*~
+
+# Compiled objects
+*.o
+*.a
+*.so
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+.venv/
